@@ -40,5 +40,3 @@ CREATE TABLE Titles(
     title VARCHAR(30) NOT NULL
 );
 
-
-select * from Employees
